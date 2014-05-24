@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urls>
+	<url>http://localhost:8080/sgarci18AppServer1/wscalc1</url>
+	<url>http://localhost:8080/sgarci18AppServer2/webresources/ws2calc2</url>
+</urls>

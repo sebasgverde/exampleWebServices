@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/sgarci18WasServer/WasWS" uri="src/conf/xml-resources/web-service-references/WasWS_2/wsdl/localhost_8080/sgarci18WasServer/WasWS"/>
+    <system systemId="http://localhost:8080/sgarci18WasServer/WasWS?WSDL" uri="src/conf/xml-resources/web-service-references/WasWS_5/wsdl/localhost_8080/sgarci18WasServer/WasWS.wsdl"/>
+    <system systemId="http://localhost:8080/sgarci18WasServer/WasWS?xsd=1" uri="src/conf/xml-resources/web-service-references/WasWS_5/wsdl/localhost_8080/sgarci18WasServer/WasWS.xsd_1.xsd"/>
+</catalog>
